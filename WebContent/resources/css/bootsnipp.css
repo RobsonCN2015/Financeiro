@@ -1,0 +1,37 @@
+
+.jumbotron{
+  padding-top: 20px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+
+.panel{
+    width: 300px;
+    margin-left: 10px;
+
+
+}
+.list-group-item{
+  height: 50px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.aprovada{
+  background-color: #4CAF50;
+  color: #003300;
+}
+h3{
+  text-align: center;
+}
+/*
+* Style tweaks
+* --------------------------------------------------
+*/
+html,
+body {
+    overflow-x: hidden; /* Prevent scroll on narrow devices */
+}
+body {
+  background-color: #BDBDBD ;
+}
